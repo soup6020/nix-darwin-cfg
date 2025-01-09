@@ -13,6 +13,7 @@
       imports = [
           ./configuration.nix
           ./packages.nix
+          ./packages-gui.nix
         ];
       nix.settings = {
         experimental-features = [ 
