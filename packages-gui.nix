@@ -37,7 +37,6 @@ homebrew = {
     "reikey"
     "openemu"
     "xournal++"
-    "xournal-plus-plus"
     "cutter"
     "bitwarden"
     "wireshark"
